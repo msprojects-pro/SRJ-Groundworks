@@ -1,0 +1,6 @@
+{
+  "name": "SRJ Groundworks",
+  "description": "Professional Groundworks, Landscaping, and Extensions specialist in Bath & Wiltshire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
